@@ -1,7 +1,7 @@
-# Ilm-ul-Quran USA — Web Platform UI Specification
+# Ilm-Ul-Quran USA — Web Platform UI Specification
 
 **Project:** WordPress → Next.js rebuild
-**Organization:** AL HASANAH FOUNDATION (dba Ilm-ul-Quran USA) · 501(c)(3) · EIN 93-3902300
+**Organization:** AL HASANAH FOUNDATION (dba Ilm-Ul-Quran USA) · 501(c)(3) · EIN 93-3902300
 **Domain:** ilmulquranus.org
 **Audience:** Muslim families in the United States and Canada
 **Document owner:** Muhammad Nurul Ahsan — Full-Stack Developer & Digital Operations Lead
@@ -32,7 +32,7 @@ Every screen in Section 7 follows the same structure: **Purpose → Sections in 
 
 ## 1. Project context
 
-### 1.1 What Ilm-ul-Quran USA is
+### 1.1 What Ilm-Ul-Quran USA is
 
 A nonprofit online Quran and Islamic education platform. Live, teacher-led classes delivered from Bangladesh-based Huffaz, Ulama and Mufti to students in North America. Roughly 250 students, 25+ instructors, 5+ management staff. Nearly half of students study free; the rest pay heavily subsidised fees. Revenue is a mix of tuition and donations (Zeffy), and there is a Zakat scholarship scheme.
 
@@ -152,7 +152,7 @@ Sites studied: Studio Arabiya (studioarabiya.com), Al-Muhammadi Academy, Online 
 
 **Pattern B — the nonprofit institute** (Miftaah, Qalam). Optimised for authority and giving. Scholar biographies are long and reverent. Donation is framed through *sadaqah jariyah* and scholarship funds. Tax ID printed in the footer of every giving page. Programs, not products. Peer-to-peer fundraising pages. Milestone/history timelines.
 
-**Ilm-ul-Quran USA sits in both.** We enrol like Pattern A and we are funded like Pattern B. The new site must run both narratives cleanly and never let the donation ask contaminate the enrolment path (a parent researching Hifz classes should not feel they are being solicited).
+**Ilm-Ul-Quran USA sits in both.** We enrol like Pattern A and we are funded like Pattern B. The new site must run both narratives cleanly and never let the donation ask contaminate the enrolment path (a parent researching Hifz classes should not feel they are being solicited).
 
 ### 3.2 Feature matrix
 
@@ -685,7 +685,7 @@ Six differentiators, each a full band alternating image side:
 5. Weekly written progress reports to parents
 6. A nonprofit — nobody is turned away for cost
 
-Close with a comparison table: *Ilm-ul-Quran USA* vs *typical online tutoring* vs *local weekend school* on the axes parents care about — teacher qualification, one-on-one, flexibility, cost, progress reporting, safeguarding.
+Close with a comparison table: *Ilm-Ul-Quran USA* vs *typical online tutoring* vs *local weekend school* on the axes parents care about — teacher qualification, one-on-one, flexibility, cost, progress reporting, safeguarding.
 
 ### 7.8 Transparency & finances — `/about/transparency` — **NEW**
 
