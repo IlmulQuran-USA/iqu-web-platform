@@ -19,9 +19,9 @@
 - Address: 100 N Central Expy, Suite 914, Richardson, TX 75080.
 - Email: info@ilmulquranus.org.
 
-**Mission (live):** to spread the light of Qur’anic knowledge across the United States and Canada, providing high-quality Qur’anic education to learners of all ages and backgrounds. Programs serve kids, teenagers and working professionals.
+**Mission (live):** to spread the light of Quranic knowledge across the United States and Canada, providing high-quality Quranic education to learners of all ages and backgrounds. Programs serve kids, teenagers and working professionals.
 
-**Goal (live):** building a strong and united Ummah through a deep connection with the Qur’an and the principles of Islam. Every individual, regardless of age or background, should have access to high-quality Qur’anic education.
+**Goal (live):** building a strong and united Ummah through a deep connection with the Quran and the principles of Islam. Every individual, regardless of age or background, should have access to high-quality Quranic education.
 
 **Scale (live, Donate page)**
 - About 250 students
@@ -55,7 +55,7 @@ These come from the published policy, so they outrank older drafts:
 
 **Overview:** Islamic Studies gives children, teens and adults a clear, practical grounding in their faith: what Muslims believe, how to worship correctly and how to live with good character. It is taught by qualified ‘Ulama and Muftis.
 
-**Who it's for:** anyone who wants structured Islamic knowledge alongside their Qur’an classes. Lessons are pitched to the student's age and level.
+**Who it's for:** anyone who wants structured Islamic knowledge alongside their Quran classes. Lessons are pitched to the student's age and level.
 
 **Topics:**
 - **Aqeedah:** the six pillars of Iman and Tawheed.
@@ -68,9 +68,9 @@ These come from the published policy, so they outrank older drafts:
 
 **Teachers (draft, from their profiles):** Mufti Ariful Islam, Mufti Mushfiqur Rahman, Mufti Shamsuddin Rois, Mawlana Nazrul Islam, Mufti Sajidullah.
 
-### 3.2 Tarjumatul Qur’an — teachers (draft, from their profiles: all list Qur’an translation)
+### 3.2 Tarjumatul Quran — teachers (draft, from their profiles: all list Quran translation)
 
-Mufti Sajidullah, Mufti Jubayer bin Jalaluddin, Ustad Alauddin Khilzi, Jawadul Islam Khan Jami, Mawlana Nazrul Islam, Ustadha Najiba Mahzabin Jeba.
+Mufti Sajidullah, Mufti Jubayer bin Jalaluddin, Ustad Alauddin Khilzi, Jawadul Islam Khan Jami, Mawlana Nazrul Islam, Najiba Mahzabin Jeba.
 
 ### 3.3 Course FAQs (draft — for every course page)
 
@@ -98,14 +98,14 @@ We match by the student's level, the teacher gender the family prefers (female t
 ## 4. Instructors — gaps filled (draft, from facts already on the site; no invented credentials)
 
 **Mufti Shaker Waliullah**
-Mufti Shaker Waliullah teaches Qur’an and Islamic education at Ilm-Ul-Quran USA, in Bengali, Arabic and Urdu.
+Mufti Shaker Waliullah teaches Quran and Islamic education at Ilm-Ul-Quran USA, in Bengali, Arabic and Urdu.
 Qualifications: (pending). Never invent credentials for a real person.
 
 **Mufti Ahmed Mostafa Raian — qualifications, taken from his live bio**
-- Hafiz of the Qur’an
+- Hafiz of the Quran
 - ‘Alim
 - Imam and Khateeb
-- Qur’an instructor and Education Secretary at Ilm-Ul-Quran USA
+- Quran instructor and Education Secretary at Ilm-Ul-Quran USA
 
 ---
 

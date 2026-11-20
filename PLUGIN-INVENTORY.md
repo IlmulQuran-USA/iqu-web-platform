@@ -60,7 +60,7 @@
 | `tarjumatul_quran` | Tarjumatul Quran | $5 | 1 | `TRJ` |
 | `islamic_studies` | Islamic Studies | $5 for 1–2 days · $4 for 3–7 days | 1 | `ISL` |
 
-Maximum is 7 days a week. Imports also accept aliases such as "Tarjumatul Qur'an", "tarjuma", "quran translation" and "islamic study".
+Maximum is 7 days a week. Imports also accept aliases such as "Tarjumatul Quran", "tarjuma", "quran translation" and "islamic study".
 
 ### 2.2 Special discount (Qa'idah / Nazirah only, opt-in plan)
 

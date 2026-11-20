@@ -516,7 +516,7 @@ Every removed legacy URL gets a 301: `/enroll-for-free` → `/enroll`, `/summer-
 
 **1 · Hero**
 - Eyebrow: `ONLINE QURAN EDUCATION · SERVING FAMILIES IN THE US & CANADA`
-- H1: *Learn the Qur'an with qualified Huffaz, Ulama and Mufti — live, one-on-one, from home.*
+- H1: *Learn the Quran with qualified Huffaz, Ulama and Mufti — live, one-on-one, from home.*
 - Sub: One sentence naming the three concrete things: live one-on-one or small batch, female tutors for girls and children, first month free.
 - CTAs: **Start free trial** (primary) · **Browse courses** (secondary)
 - Trust strip directly beneath, one line: `250+ students taught · 25+ qualified instructors · 501(c)(3) nonprofit · Nearly half of our students study free`
@@ -793,7 +793,7 @@ Keep the existing four-card structure — it works — but upgrade:
 ### 7.16 Teach with us — `/teach` — **NEW**
 
 Replaces the empty `/instructor-registration` page.
-1. Hero — *Teach the Qur'an to families across North America.*
+1. Hero — *Teach the Quran to families across North America.*
 2. Why teach with IQU — stipend, training, schedule, community.
 3. What we look for — qualification, Ijazah/sanad, English proficiency, internet and device requirements.
 4. Hiring process — 4 steps: apply → screening → demo class → onboarding.
