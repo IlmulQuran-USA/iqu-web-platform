@@ -531,7 +531,7 @@ Each entry lists:
   - Teaches Quranic Arabic and Quran translation
   - Fluent in Bengali, proficient in English
 
-**Ustad Alauddin Khilzi** — `ustad-alauddin-khilzi`
+**Alauddin Khilzi** — `ustad-alauddin-khilzi`
 - **Role:** Quran & Islamic Studies
 - **Languages:** Bengali, English, Arabic, Urdu
 - **Profile (live):** a Hafez and ‘Alim who teaches Quran reading, recitation, memorization, translation and foundational Islamic education.

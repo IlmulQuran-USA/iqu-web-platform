@@ -70,7 +70,7 @@ These come from the published policy, so they outrank older drafts:
 
 ### 3.2 Tarjumatul Quran — teachers (draft, from their profiles: all list Quran translation)
 
-Mufti Sajidullah, Mufti Jubayer bin Jalaluddin, Ustad Alauddin Khilzi, Jawadul Islam Khan Jami, Mawlana Nazrul Islam, Najiba Mahzabin Jeba.
+Mufti Sajidullah, Mufti Jubayer bin Jalaluddin, Alauddin Khilzi, Jawadul Islam Khan Jami, Mawlana Nazrul Islam, Najiba Mahzabin Jeba.
 
 ### 3.3 Course FAQs (draft — for every course page)
 
