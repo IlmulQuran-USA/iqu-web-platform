@@ -640,7 +640,7 @@ Full-width `--primary` band. Single headline, single button, one line of reassur
 1. **Header** — H1 *Our instructors*, sub: *Qualified Huffaz, Ulama and Mufti — every teacher is vetted for both scholarship and teaching ability.* Count: *20 instructors · 6 languages*.
 2. **Filters** — Specialisation (Hifz / Tajweed / Nazirah / Arabic / Islamic Studies) · Language · Gender · Availability.
 3. **Grid** — `InstructorCard`, 4-up desktop / 2-up tablet / 1-up mobile.
-   Card anatomy: arch-framed portrait → name → title (Mufti / Mawlana / Hafez / Ustadha) → credential line → specialisation chips → language chips → *View profile*.
+   Card anatomy: arch-framed portrait → name → title (Mufti / Mawlana / Hafez) → credential line → specialisation chips → language chips → *View profile*.
 4. **Leadership callout** — Director (Mufti Muhammad Faijullah) and Education Secretary shown larger, above the general grid.
 5. **Teach with us** — recruitment CTA → `/teach`.
 
