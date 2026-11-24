@@ -527,7 +527,7 @@ Every removed legacy URL gets a 301: `/enroll-for-free` → `/enroll`, `/summer-
 **2 · The scheduling answer** — **NEW**
 The objection nobody else addresses. A compact three-column band:
 - *Your time zone, not ours.* Classes run 6 AM–11 PM across ET/CT/MT/PT.
-- *Choose your days.* 2, 3, 4 or 5 days a week, 30 or 45 minute sessions.
+- *Choose your days.* 2, 3, 4 or 5 days a week. Each class is 30, 40, 50 or 60 minutes, and the family chooses.
 - *Never miss a class.* Free make-up sessions.
 Small live widget: "It's **[current time]** in Dallas — we have instructors teaching right now." Renders client-side, degrades to static text.
 
@@ -831,7 +831,7 @@ The step that wins or loses the enrolment.
 - Time zone: auto-detected, editable, shown prominently
 - Days per week: 2 / 3 / 4 / 5
 - Preferred days: multi-select day chips
-- Session length: 30 / 45 / 60 min
+- Session length: 30 / 40 / 50 / 60 min — the live plugin's list (`IQU_Reg_Fields::SESSION_DURATIONS`). 45 is no longer offered (removed in plugin v3.7.13).
 - Time slot: a **grid of real available slots in the user's local time**, not a free-text field. Unavailable slots visibly disabled, not hidden.
 - Teacher gender preference: Any / Female only — with a plain note that female instructors are available for girls and young children
 - Device: computer / tablet / phone
