@@ -34,7 +34,7 @@ Every screen in Section 7 follows the same structure: **Purpose → Sections in 
 
 ### 1.1 What Ilm-Ul-Quran USA is
 
-A nonprofit online Quran and Islamic education platform. Live, teacher-led classes delivered from Bangladesh-based Huffaz, Ulama and Mufti to students in North America. Roughly 250 students, 25+ instructors, 5+ management staff. Nearly half of students study free; the rest pay heavily subsidised fees. Revenue is a mix of tuition and donations (Zeffy), and there is a Zakat scholarship scheme.
+A nonprofit online Quran and Islamic education platform. Live, teacher-led classes delivered from Bangladesh-based Huffaz, Ulama and Mufti to students in North America. Roughly 250 students, 25+ instructors, 5+ management staff. About half of our students receive help with fees (a reduced fee or a full scholarship); the others pay the listed fees. Revenue is a mix of tuition and donations (Zeffy), and there is a Zakat scholarship scheme.
 
 This is the single most important framing for the designer: **this is not a commercial academy that happens to be Islamic. It is a charity that teaches.** The site has to work simultaneously as an enrolment funnel for parents and a donation funnel for supporters, without either one undermining the other's credibility.
 
@@ -191,7 +191,7 @@ Legend: ● present · ◐ partial · ○ absent
 - Studio Arabiya's four-step *How it works* (Pick a course → Get matched with a teacher → Start learning online → Reports & certificates). It answers the parent's real question, which is not "what do you teach" but "what happens after I click".
 - The "Track your progress with reports & certificates" section. This is the strongest retention argument in the category and maps exactly onto Sabaq/Sabqi/Manzil tracking, which we can do better than anyone because we actually teach it that way.
 - Miftaah's giving structure: named funds, a hadith anchor, recurring sustainer tier, tax ID always adjacent to the ask.
-- Qalam's scholarship framing — "your donation goes directly to the scholarship fund" — which is literally true for us, since half our students study free.
+- Qalam's scholarship framing — "your donation goes directly to the scholarship fund" — which is literally true for us, since about half of our students receive help with fees.
 
 **Avoid**
 
@@ -519,7 +519,7 @@ Every removed legacy URL gets a 301: `/enroll-for-free` → `/enroll`, `/summer-
 - H1: *Learn the Quran with qualified Huffaz, Ulama and Mufti — live, one-on-one, from home.*
 - Sub: One sentence naming the three concrete things: live one-on-one or small batch, female tutors for girls and children, first month free.
 - CTAs: **Start free trial** (primary) · **Browse courses** (secondary)
-- Trust strip directly beneath, one line: `250+ students taught · 25+ qualified instructors · 501(c)(3) nonprofit · Nearly half of our students study free`
+- Trust strip directly beneath, one line: `250+ students taught · 25+ qualified instructors · 501(c)(3) nonprofit · About half of our students receive help with fees`
 - Media: real photograph of a class in progress, framed in the riwāq arch. Not stock.
 - **Layout:** 7/5 split desktop, image right, arch mask. Stacked on mobile with image below the CTAs so the fold stays text-first.
 - **State:** hero image `priority`, explicit dimensions, LQIP blur placeholder. This is the CLS-critical element — the current site has a documented CLS problem here.
@@ -561,7 +561,7 @@ Four steps, horizontal on desktop with a connecting rule, vertical timeline on m
 Three cards with photo, full name, city/state, program studied, and a specific outcome ("finished Noorani Qaidah in 11 weeks"). Vague praise is worse than no testimonial. Below: rating summary if we have one, otherwise omit rather than fabricate.
 
 **8 · Nonprofit band**
-Distinct background (`--surface`), girih lattice at 4% opacity. Short: who we are, EIN, the fact that nearly half of students pay nothing, and two links — **How we're funded** (→ `/about/transparency`) and **Support a student** (→ `/donate`). Text link, not a competing filled button.
+Distinct background (`--surface`), girih lattice at 4% opacity. Short: who we are, EIN, the fact that about half of our students receive help with fees, and two links — **How we're funded** (→ `/about/transparency`) and **Support a student** (→ `/donate`). Text link, not a competing filled button.
 
 **9 · FAQ preview**
 Six accordion items answering: cost, free trial, time zones, female teachers, minimum age, what device is needed. CTA: **All questions**.
@@ -692,7 +692,7 @@ Close with a comparison table: *Ilm-Ul-Quran USA* vs *typical online tutoring* v
 US donors look for this before giving. Sections:
 1. **Legal status card** — 501(c)(3), EIN 93-3902300, state of incorporation, IRS determination letter (PDF download), address.
 2. **Where the money goes** — a single honest chart: teacher stipends / platform & technology / scholarships / administration. Use real Zeffy-derived figures.
-3. **Fee policy** — plain-language explanation that we are not free any more, that nearly half of students still pay nothing, and how the subsidy is decided.
+3. **Fee policy** — plain-language explanation that we are not free any more, that about half of our students receive help with fees, and how the subsidy is decided.
 4. **Zakat policy** — who administers it, what it may be spent on, how eligibility is verified.
 5. **Governance** — board or trustees, conflict-of-interest statement.
 6. **Annual reports** — downloadable PDFs, one card per year.
@@ -728,7 +728,7 @@ Driven live from `iqu_registrations` and `iqu_zeffy_payments`.
 - Button: **Give $100 monthly** — the label must restate the choice
 - Zeffy handoff: if the transaction completes off-site, the design must show a clear interstitial explaining that they are moving to our secure giving partner, and the return page must be branded.
 
-**3 · Impact strip** — three numbers with the honest framing already used on the current site: nearly half of students receive classes at no cost, the rest are significantly subsidised.
+**3 · Impact strip** — three numbers with an honest framing: about half of our students receive help with fees (a reduced fee or a full scholarship).
 
 **4 · Sustainer tier** — **NEW.** *Become a monthly sustainer.* Named tiers with what each funds. Benefits: quarterly impact report, name on the supporters page (opt-in), du'a from the students.
 
@@ -845,7 +845,7 @@ Honest, and the emotional heart of the form.
   3. *I am applying for a Zakat scholarship* — reveals the Zakat declaration checkbox and eligibility note
 - Coupon field with inline validation against `iqu_coupons` (valid / expired / not applicable to this course / usage limit reached — each with its own message)
 - Sibling discount auto-applied if a matching guardian email already exists
-- Reassurance: *Nearly half of our students study at no cost. Asking for help will never affect your child's place.*
+- Reassurance: *About half of our students receive help with fees. Asking for help will never affect your child's place.*
 
 **Step 5 — Review & submit**
 - Full summary, every group with an **Edit** link that returns to that step and back

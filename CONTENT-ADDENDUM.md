@@ -28,7 +28,7 @@
 - 25+ teachers (full-time and part-time)
 - 5+ management staff
 
-**Fees and aid (live, Donate page):** nearly half of our students study free. The rest pay subsidized fees, with tuition reduced by 50%, 45% or 30%. This adds detail to the Home "Nearly half of our students study free" fact; use it on the giving section and the scholarship page.
+**Fees and aid:** about half of our students receive help with fees: a reduced fee (50%, 45% or 30% off) or a full scholarship. Source: the live `iqu-registration` data, 25 Nov 2026 (48 of 91 active monthly students get help; 10 pay $0). The live Donate page's "nearly half of our students study free" was corrected to this wording (owner, 26 Nov 2026). Use it on the giving section and the scholarship page.
 
 **Contact hours (live, Contact page):** text us Monday to Friday, 8 AM–5 PM.
 
